@@ -7,7 +7,7 @@ import javax.swing.*;
 import java.awt.*;
 /**
  *
- * @author dti
+ * @author Karinne Angelo dos Santos Ventura
  */
 public class TelaJTextField extends JFrame{
     
