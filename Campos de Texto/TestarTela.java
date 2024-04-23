@@ -6,7 +6,7 @@ package telajtextfield;
 import javax.swing.*;
 /**
  *
- * @author dti
+ * @author  Karinne Angelo dos Santos Ventura
  */
 public class TestarTela {
     public static void main(String[] args) {
